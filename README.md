@@ -1,6 +1,8 @@
 # Althub-task-
 Assigned task by team lead regarding Capstone Project Altschool Africa Tinyuka Cohort 2024
+
 Analysis of Survey Questions 7–9
+
 🧠 Purpose of the Task
 As part of our user research efforts for the MediSync health app, I analyzed open- and close-ended responses from our user survey—specifically focusing on Questions 7 to 9. This analysis helps us better understand users’ experiences, emotions, and likelihood of adopting a centralized medical record system.
 
